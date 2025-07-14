@@ -1,3 +1,6 @@
 npm i express
 npm i ejs
 npm i express-validator
+npm i mongoose
+npm i dotenv
+npm i bcrypt
