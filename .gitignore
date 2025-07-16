@@ -32,3 +32,9 @@ frontend/.env
 backend/.env
 .env.local
 .env.*.local
+
+#Firebase
+driveproject-7d9a3-firebase-adminsdk-fbsvc-4fe79746c9.json
+
+#normal file
+npm's

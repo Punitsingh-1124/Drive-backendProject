@@ -6,3 +6,9 @@ npm i dotenv
 npm i bcrypt
 npm i jsonwebtoken
 npm i cookie-parser
+npm i firebase-admin
+
+side liberys
+1.flowbite.com
+2.remix icon
+3.firebase
